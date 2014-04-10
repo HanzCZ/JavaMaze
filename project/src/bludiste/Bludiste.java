@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package pokus2;
+package bludiste;
 
 /**
  *
  * @author acer
  */
-public class Pokus2 {
+public class Bludiste {
 
     /**
      * @param args the command line arguments
