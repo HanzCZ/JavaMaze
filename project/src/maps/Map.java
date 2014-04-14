@@ -1,5 +1,8 @@
 package maps;
-
+/**
+ * obsahuj 2d pole objektu Field ktere tvori mapu
+ * @authors Jan Hanák, Pavlína Bortlová
+ */
 public class Map {
     
     private final String name;

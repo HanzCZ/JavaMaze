@@ -1,7 +1,7 @@
 package maps;
 /**
- *
- * @author Honza
+ * hrac - pohybuje se sbira klice - vyhrava
+ * @authors Jan Hanák, Pavlína Bortlová
  */
 public class Head {
     private final int id;
@@ -41,6 +41,7 @@ public class Head {
     }
     public void printKeys(){
         System.out.print(keys);
+        System.out.print("\n");
     }
     public void turnLeft(){ //--
         if(dir == 1)

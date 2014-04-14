@@ -1,8 +1,8 @@
 package objects.statics;
 import objects.Object;
 /**
- *asd
- * @author Honza
+ *
+ * @authors Jan Hanák, Pavlína Bortlová
  */
 public class Finish extends Object {
     public Finish(String name){

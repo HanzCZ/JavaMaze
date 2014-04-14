@@ -1,11 +1,9 @@
 package objects;
 import objects.statics.*;
 /**
- *
- * @Walimport objects.statics.Key;
-import objects.statics.Finish;
-import objects.statics.Gate;
-luthor Honza
+ * obsahuje rozsireni ktere urči o jaky typ objektu se jedna
+ * 
+ * @authors Jan Hanák, Pavlína Bortlová
  */
 public abstract class Object {
     protected String name;

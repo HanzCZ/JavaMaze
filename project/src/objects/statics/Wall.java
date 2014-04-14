@@ -2,7 +2,7 @@ package objects.statics;
 import objects.Object;
 /**
  *
- * @author Honza
+ * @authors Jan Hanák, Pavlína Bortlová
  */
 public class Wall extends Object {
     public Wall(String name){
